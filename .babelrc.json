@@ -1,8 +1,5 @@
 {
-  "presets": [
-    "@babel/preset-stage-3",
-    "@babel/preset-env"
-  ],
+  "presets": ["@babel/preset-stage-3", "@babel/preset-env"],
   "plugins": [
     "@babel/plugin-proposal-optional-chaining",
     "@babel/plugin-transform-destructuring",
